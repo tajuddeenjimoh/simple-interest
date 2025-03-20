@@ -1,0 +1,2 @@
+# simple-interest
+A SIMPLE INTEREST JAVASCRIPT PROGRAM
